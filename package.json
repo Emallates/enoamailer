@@ -1,0 +1,31 @@
+{
+  "name": "enoamailer",
+  "version": "0.0.2",
+  "description": "Mailer module with dynamic templates using handlerbars",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomi-ramzan/enoamailer.git"
+  },
+  "keywords": [
+    "mailer",
+    "mustache",
+    "mustachejs",
+    "handlebars",
+    "dynamic templates",
+    "logicless templstes"
+  ],
+  "author": "Nauman Ramzan ( nomi@emallates.com )",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nomi-ramzan/enoamailer/issues"
+  },
+  "homepage": "https://github.com/nomi-ramzan/enoamailer#readme",
+  "dependencies": {
+    "handlebars": "^4.0.5",
+    "nodemailer": "^2.5.0"
+  }
+}
